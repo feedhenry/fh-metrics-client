@@ -1,6 +1,6 @@
 {
   "name": "fh-metrics-client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "client for interfacing with metrics",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/fheng/fh-metrics-client/issues"
   },
   "dependencies": {
-    "request": "2.78.0",
+    "request": "2.83.0",
     "underscore": "1.8.0",
     "moment": "2.16.0 "
   },
