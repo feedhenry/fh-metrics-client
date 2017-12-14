@@ -21,7 +21,7 @@
   "dependencies": {
     "request": "2.83.0",
     "underscore": "1.8.0",
-    "moment": "2.16.0 "
+    "moment": "2.19.3"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
