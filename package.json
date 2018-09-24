@@ -19,7 +19,7 @@
     "url": "https://github.com/fheng/fh-metrics-client/issues"
   },
   "dependencies": {
-    "request": "2.83.0",
+    "request": "2.84.0",
     "underscore": "1.8.0",
     "moment": "2.19.3"
   },
